@@ -23,7 +23,7 @@
 using System.Windows.Controls;
 using Autodesk.Revit.UI;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS
+namespace CloudAPISample
 {
    /// <summary>
    ///    Base class for each sample context in samples portal.

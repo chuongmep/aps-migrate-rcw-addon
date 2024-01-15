@@ -1,12 +1,11 @@
 ﻿using System;
-using System.Text;
 using System.Net;
-
+using System.Text;
+using System.Threading;
 using Autodesk.Forge;
 using Autodesk.Forge.Client;
-using System.Threading;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.APS
+namespace CloudAPISample.Forge
 {
 
     class ThreeLeggedToken

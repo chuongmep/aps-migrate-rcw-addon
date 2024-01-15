@@ -26,9 +26,9 @@ using System.Windows.Media.Imaging;
 using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using Revit.SDK.Samples.CloudAPISample.CS.Migration;
+using CloudAPISample.Samples.Migration;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS
+namespace CloudAPISample
 {
    /// <summary>
    ///    Main external application class.

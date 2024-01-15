@@ -24,7 +24,7 @@ using System.Windows.Controls;
 using Autodesk.Revit.UI;
 using Autodesk.UI.Windows;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.View
+namespace CloudAPISample.View
 {
    /// <summary>
    ///    Interaction logic for ViewSamplePortal.xaml

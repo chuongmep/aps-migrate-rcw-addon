@@ -23,10 +23,10 @@
 using System;
 using System.Collections.Generic;
 using Autodesk.Revit.UI;
-using Revit.SDK.Samples.CloudAPISample.CS.Coroutine;
-using Revit.SDK.Samples.CloudAPISample.CS.View;
+using CloudAPISample.Coroutine;
+using CloudAPISample.View;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS
+namespace CloudAPISample
 {
    internal class SampleEngine : IDisposable
    {

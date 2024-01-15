@@ -22,7 +22,7 @@
 
 using System.Collections;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.Coroutine
+namespace CloudAPISample.Coroutine
 {
    /// <summary>
    ///    Represent a coroutine instance.

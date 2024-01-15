@@ -23,7 +23,7 @@
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.Migration
+namespace CloudAPISample.Samples.Migration
 {
    /// <summary>
    ///    Provide user BIM360 project information and configuration for this sample.

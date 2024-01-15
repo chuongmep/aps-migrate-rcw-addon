@@ -1,12 +1,11 @@
 ﻿using System;
-using System.IO;
 using System.Collections.Generic;
+using System.IO;
 using System.Threading.Tasks;
 using Autodesk.Forge;
 using Autodesk.Forge.Model;
 
-
-namespace Revit.SDK.Samples.CloudAPISample.CS.APS
+namespace CloudAPISample.Forge
 {
     class DataManagement
     {

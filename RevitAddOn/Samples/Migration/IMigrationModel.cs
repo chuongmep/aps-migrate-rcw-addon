@@ -22,7 +22,7 @@
 
 using System.Collections.ObjectModel;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.Migration
+namespace CloudAPISample.Samples.Migration
 {
    /// <summary>
    ///    Represents a folder on BIM360 site.

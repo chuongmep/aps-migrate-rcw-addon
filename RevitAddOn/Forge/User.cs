@@ -1,14 +1,8 @@
-﻿using RestSharp;
-using System;
-using Autodesk.Forge;
-using Autodesk.Forge.Model;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
 using System.Threading.Tasks;
+using Autodesk.Forge;
 
-
-namespace Revit.SDK.Samples.CloudAPISample.CS.APS
+namespace CloudAPISample.Forge
 {
     /// <summary>
     /// 

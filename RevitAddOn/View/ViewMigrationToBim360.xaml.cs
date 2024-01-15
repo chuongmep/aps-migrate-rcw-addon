@@ -21,20 +21,19 @@
 // (Rights in Technical Data and Computer Software), as applicable. 
 
 using System;
-using System.Diagnostics;
-using System.IO;
 using System.Collections.Generic;
+using System.IO;
+using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Controls;
 using System.Windows.Forms;
-using Revit.SDK.Samples.CloudAPISample.CS.Coroutine;
-using Revit.SDK.Samples.CloudAPISample.CS.Migration;
-using Revit.SDK.Samples.CloudAPISample.CS.APS;
+using CloudAPISample.Coroutine;
+using CloudAPISample.Forge;
+using CloudAPISample.Samples.Migration;
 using MessageBox = System.Windows.MessageBox;
 using UserControl = System.Windows.Controls.UserControl;
-using System.Windows.Controls;
-using System.Threading.Tasks;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.View
+namespace CloudAPISample.View
 {
     /// <summary>
     ///    Interaction logic for ViewMigrationToBim360.xaml

@@ -26,14 +26,12 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
-using Newtonsoft.Json;
 using System.Windows;
 using Autodesk.Revit.DB;
-using Revit.SDK.Samples.CloudAPISample.CS.View;
-using System.Threading.Tasks;
-using Revit.SDK.Samples.CloudAPISample.CS.APS;
+using CloudAPISample.View;
+using Newtonsoft.Json;
 
-namespace Revit.SDK.Samples.CloudAPISample.CS.Migration
+namespace CloudAPISample.Samples.Migration
 {
    /// <summary>
    ///    This is a sample shows how to migrate A360 Teams project to BIM360 Docs
